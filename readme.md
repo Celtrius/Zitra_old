@@ -1,6 +1,6 @@
 # Zitra: Stream Manager for Twitch
 
-Zitra is a stream manager for twitch. It is made for content creator like you.
+Zitra is a stream manager for twitch. It is made for content creators like you.
 
 
 <b> Features ✨ </b>

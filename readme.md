@@ -1,4 +1,5 @@
-# Zitra: Stream Manager for Twitch
+# Zitra: Stream Manager for Twitch (Deprecated)
+This repository has since been deprecated.
 
 Zitra is a stream manager for twitch. It is made for content creators like you.
 
